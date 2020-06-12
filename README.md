@@ -1,2 +1,2 @@
 # Configuration
-Configurations of various environments
+Configurations of various environments DEV and SIT
